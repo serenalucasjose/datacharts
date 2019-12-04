@@ -1,0 +1,17 @@
+{
+  "name": "fnagraphs",
+  "version": "1.0.0",
+  "description": "Visualizaciones de datos para FNA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "http-server . -c-1 --cors"
+  },
+  "author": "Lucas Jose Serena",
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^5.14.2",
+    "d3-array": "^2.4.0",
+    "http-server": "^0.12.0"
+  }
+}
