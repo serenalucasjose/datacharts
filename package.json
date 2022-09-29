@@ -10,7 +10,7 @@
   "author": "Lucas Jose Serena",
   "license": "ISC",
   "dependencies": {
-    "d3": "^5.14.2",
+    "d3": "^7.6.1",
     "d3-array": "^2.4.0",
     "http-server": "^0.12.0"
   }
